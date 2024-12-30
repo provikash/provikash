@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://media1.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=6c09b9525knqs0oxvwsbqxib50avkgikvvn75s3fnw9bq8zj&ep=v1_internal_gif_by_id&rid=giphy.gif" alt="vk127001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vk127001" alt="vk127001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=provikash" alt="vk127001" /></a> </p>
 
 - 🔭 I’m currently working on **Chatbot**
 
